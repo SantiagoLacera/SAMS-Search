@@ -44,7 +44,7 @@
 	<main>
 		<Header />
 		<div
-			class="hero min-h-screen"
+			class="hero min-h-screen text-white"
 			style="background-image: url(https://mma.prnewswire.com/media/1163548/Westgate_Resorts_Logo.jpg?p=facebook);"
 		>
 			<div class="hero-overlay bg-opacity-70" />
