@@ -52,7 +52,7 @@
 						<label class="input input-bordered flex items-center gap-2">
 							<input
 								type="search"
-								class="grow text-black"
+								class="grow white:text-black black:text-white "
 								placeholder="Search..."
 								bind:value={$searchStore.search}
 							/>
@@ -78,7 +78,9 @@
 											<div class="relative overflow-x-auto ">
 												<table class="table table-lg">
 													<!-- head -->
-													<thead class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+													<thead
+														class="border-b dark:bg-gray-800 dark:border-gray-700 white:bg-gray-300 white:border-gray-200  "
+													>
 														<tr class="text-lg">
 															<th>Location</th>
 															<th>PLU</th>
