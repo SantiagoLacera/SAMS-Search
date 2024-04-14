@@ -5,7 +5,6 @@
 	import Header from '../components/Header.svelte';
 	import Footer from '../components/Footer.svelte';
 	import SectionWrapper from '../components/SectionWrapper.svelte';
-	import Hero from '../components/Hero.svelte';
 
 	export let data: PageData;
 
@@ -49,7 +48,7 @@
 			style="background-image: url(https://mma.prnewswire.com/media/1163548/Westgate_Resorts_Logo.jpg?p=facebook);"
 		>
 			<div class="hero-overlay bg-opacity-70" />
-			<div class="hero-content text-center text-white">
+			<div class="hero-content text-center">
 				<div class="max-w-md">
 					<h1 class="mb-5 text-5xl font-bold">Welcome!!!</h1>
 					<p class="mb-5 text-lg">
