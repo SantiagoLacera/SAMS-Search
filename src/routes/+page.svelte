@@ -36,7 +36,7 @@
 	<main>
 		<Header />
 		<div
-			class="hero min-h-screen text-black dark:text-white"
+			class="hero min-h-screen text-primary-content"
 			style="background-image: url(https://mma.prnewswire.com/media/1163548/Westgate_Resorts_Logo.jpg?p=facebook);"
 		>
 			<div class="hero-overlay bg-opacity-70" />
@@ -52,7 +52,7 @@
 						<label class="input input-bordered flex items-center gap-2">
 							<input
 								type="search"
-								class="grow white:text-black black:text-white "
+								class="grow dark:text-white text-black"
 								placeholder="Search..."
 								bind:value={$searchStore.search}
 							/>
@@ -69,7 +69,7 @@
 							>
 						</label>
 						<!-- Open the modal using ID.showModal() method -->
-						<div class="p-2">
+						<div class="p-2 dark:text-white text-black">
 							<button class="btn btn-primary" onclick="my_modal_3.showModal() "> Submit</button>
 							<dialog id="my_modal_3" class="modal">
 								<div class="modal-box  min-w-[900px]">
@@ -78,9 +78,7 @@
 											<div class="relative overflow-x-auto ">
 												<table class="table table-lg">
 													<!-- head -->
-													<thead
-														class="border-b dark:bg-gray-800 dark:border-gray-700 bg-gray-500 border-gray-400"
-													>
+													<thead class="border-b ">
 														<tr class="text-lg">
 															<th>Location</th>
 															<th>PLU</th>
@@ -90,7 +88,7 @@
 														</tr>
 													</thead>
 													{#each $searchStore.filtered as gift}
-														<tbody class="bg-accent-content">
+														<tbody class="dark:bg-primary-content dark:border-accent-content">
 															<!-- row 1 -->
 															<tr>
 																<td>{gift.Location}</td>
