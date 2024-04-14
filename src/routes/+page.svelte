@@ -36,7 +36,7 @@
 	<main>
 		<Header />
 		<div
-			class="hero min-h-screen text-white "
+			class="hero min-h-screen text-black dark:text-white"
 			style="background-image: url(https://mma.prnewswire.com/media/1163548/Westgate_Resorts_Logo.jpg?p=facebook);"
 		>
 			<div class="hero-overlay bg-opacity-70" />
@@ -79,7 +79,7 @@
 												<table class="table table-lg">
 													<!-- head -->
 													<thead
-														class="border-b dark:bg-gray-800 dark:border-gray-700 white:bg-gray-300 white:border-gray-200  "
+														class="border-b dark:bg-gray-800 dark:border-gray-700 bg-gray-500 border-gray-400"
 													>
 														<tr class="text-lg">
 															<th>Location</th>
@@ -90,7 +90,7 @@
 														</tr>
 													</thead>
 													{#each $searchStore.filtered as gift}
-														<tbody class="bg-primary-content">
+														<tbody class="bg-accent-content">
 															<!-- row 1 -->
 															<tr>
 																<td>{gift.Location}</td>
