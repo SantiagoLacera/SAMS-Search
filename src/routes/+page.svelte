@@ -30,21 +30,13 @@
 	onDestroy(() => {
 		unsubscribe();
 	});
-
-	function loading() {
-		const loading = document.getElementById('loading');
-		loading?.classList.remove('hidden');
-		setTimeout(() => {
-			loading?.classList.add('hidden');
-		}, 3000);
-	}
 </script>
 
 <SectionWrapper>
 	<main>
 		<Header />
 		<div
-			class="hero min-h-screen text-white"
+			class="hero min-h-screen text-white "
 			style="background-image: url(https://mma.prnewswire.com/media/1163548/Westgate_Resorts_Logo.jpg?p=facebook);"
 		>
 			<div class="hero-overlay bg-opacity-70" />
@@ -60,7 +52,7 @@
 						<label class="input input-bordered flex items-center gap-2">
 							<input
 								type="search"
-								class="grow"
+								class="grow text-black"
 								placeholder="Search..."
 								bind:value={$searchStore.search}
 							/>
