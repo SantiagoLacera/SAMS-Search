@@ -13,7 +13,7 @@
 		Description: string;
 		PLU: string;
 		Price: number;
-		Cost: string;
+		Cost: number;
 		searchTerms: string;
 	};
 

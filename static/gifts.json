@@ -1,6 +1,27 @@
 {
 	"gifts": [
 		{
+			"Location": "All Resorts",
+			"PLU": "CASH",
+			"Description": "CASH Gift Visa card",
+			"Price": 0,
+			"Cost": 0
+		},
+		{
+			"Location": "Smoky",
+			"PLU": "Condoex",
+			"Description": "8 Day - 7 Night Condo Vacation",
+			"Price": 0,
+			"Cost": 8.52
+		},
+		{
+			"Location": "Smoky",
+			"PLU": "3D2NVV",
+			"Description": "3 Days and 2 Nights Vacation",
+			"Price": 0,
+			"Cost": 1.75
+		},
+		{
 			"Location": "Smoky",
 			"PLU": "25CRGC",
 			"Description": "COLLIER RESTAURANT $25 GIFT CERT",
@@ -874,6 +895,348 @@
 			"Description": "5 DAY WILD BEAR WATER FALLS TICKET",
 			"Price": 94.99,
 			"Cost": 44.64
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "Condoex",
+			"Description": "8 Day - 7 Night Condo Vacation",
+			"Price": 0,
+			"Cost": 8.52
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "VLT",
+			"Description": "Vacation of A Life Time",
+			"Price": 0,
+			"Cost": 1.86
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "F25",
+			"Description": "Friendly's-$25",
+			"Price": 25,
+			"Cost": 10
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "DSB25MB",
+			"Description": "Drafts $25",
+			"Price": 25,
+			"Cost": 22.5
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "ASP25",
+			"Description": "Angelo's Steak & Pasta $25",
+			"Price": 25,
+			"Cost": 22.5
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "TSS25",
+			"Description": "Thorny's Steak House $25",
+			"Price": 25,
+			"Cost": 22.5
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "CM25",
+			"Description": "Crabby Mike's $25",
+			"Price": 25,
+			"Cost": 23
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "GC30 ",
+			"Description": "Giant Crab $30",
+			"Price": 25,
+			"Cost": 27
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "SCB",
+			"Description": "Pirate's Table $25",
+			"Price": 25,
+			"Cost": 20
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "RIOZGC ",
+			"Description": "Rioz Brazilian Steak House $25 - MB location",
+			"Price": 25,
+			"Cost": 22.5
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "RIOZ",
+			"Description": "Rioz Brazilian Steak House $25 - NMB location",
+			"Price": 25,
+			"Cost": 22.5
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "DCIA25",
+			"Description": "Dinoland Café - $25",
+			"Price": 25,
+			"Cost": 20
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "SF25",
+			"Description": "Senor Frogs $25",
+			"Price": 25,
+			"Cost": 22.5
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "TOB25",
+			"Description": "The Original Benjamin's $25",
+			"Price": 25,
+			"Cost": 20
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "Wonder Works"
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "WWMBA ",
+			"Description": "Wonder Works Adult",
+			"Price": 36.54,
+			"Cost": 30
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "WWMBC ",
+			"Description": "Wonder Works Child",
+			"Price": 29.01,
+			"Cost": 25
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "WWMBS",
+			"Description": "Wonder Works Senior",
+			"Price": 29.01,
+			"Cost": 25
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "BQDA ",
+			"Description": "Barefoot Queen Dinner Cruise - Adult",
+			"Price": 59.99,
+			"Cost": 52
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "BQDC",
+			"Description": "Barefoot Queen Dinner Cruise - Child (12 and under)",
+			"Price": 29.99,
+			"Cost": 26
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "BFQLCA ",
+			"Description": "Barefoot Queen Sightseeing Lunch Cruise - Adult",
+			"Price": 39.99,
+			"Cost": 35
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "BQSSC",
+			"Description": "Barefoot Queen Sightseeing Lunch Cruise - Child - (12 and under)",
+			"Price": 24.99,
+			"Cost": 22
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "GPXU",
+			"Description": "Grand Prix Unlimited Wristband",
+			"Price": 53.75,
+			"Cost": 32.24
+		},
+
+		{
+			"Location": "Myrtle",
+			"PLU": "BA1HJ",
+			"Description": "1 Hour Jump Ticket ",
+			"Price": 18.02,
+			"Cost": 15.02
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "BA2HJ",
+			"Description": "2 Hour Jump Ticket ",
+			"Price": 26.5,
+			"Cost": 23.5
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "BAADJ",
+			"Description": "All Day Jump Ticket ",
+			"Price": 31.8,
+			"Cost": 28.8
+		},
+
+		{
+			"Location": "Myrtle",
+			"PLU": "CWT",
+			"Description": "Classis Wine Tasting",
+			"Price": 5.53,
+			"Cost": 4.42
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "DWT",
+			"Description": "Deluxe Wine Tasting",
+			"Price": 11.05,
+			"Cost": 8.84
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "RMMDS",
+			"Description": "Murder Mystery Dinner Show - All Ages",
+			"Price": 53.49,
+			"Cost": 48.14
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "CBWRA",
+			"Description": "Wonders Regular Seating - Adult (13+)",
+			"Price": 36.82,
+			"Cost": 26.4
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "CBWRC",
+			"Description": "Wonders Regular Seating - Child (12 and under)",
+			"Price": 21.77,
+			"Cost": 15.2
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "CHHA",
+			"Description": "Adult - 18 and above",
+			"Price": 32.86,
+			"Cost": 28
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "RAMBA",
+			"Description": "Ripleys Aquarium Adult - 12 and up - SOLD OUT",
+			"Price": 39.76,
+			"Cost": 39.76
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "RAMBJ",
+			"Description": "Ripleys Aquarium Junior - (6 to 11)",
+			"Price": 26.86,
+			"Cost": 26.86
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "RAMBC",
+			"Description": "Ripleys Aquarium Child - (3  to 5)",
+			"Price": 13.96,
+			"Cost": 13.96
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "ONEOR",
+			"Description": "Iconic Adult - Orchestra - (1 - 12)",
+			"Price": 54.95,
+			"Cost": 50.95
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "ONEFL",
+			"Description": "Iconic Adult - Floor - 13 and back",
+			"Price": 49.95,
+			"Cost": 45.95
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "ONEB",
+			"Description": "Iconic Adult - Balcony",
+			"Price": 39.95,
+			"Cost": 35.95
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "ONEC",
+			"Description": "Iconic Child Seats - 16 and under",
+			"Price": 19.95,
+			"Cost": 17.95
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "PVA",
+			"Description": "Pirates Vogage Adult",
+			"Price": 76.27,
+			"Cost": 70.83
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "PVC",
+			"Description": "Pirates Vogage Child (3-9 years old)",
+			"Price": 38.13,
+			"Cost": 35.95
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "LICVIP",
+			"Description": "Legends Adult VIP",
+			"Price": 60.85,
+			"Cost": 49
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "LICVIPC",
+			"Description": "Legends Child  VIP (3 to 16)",
+			"Price": 35.05,
+			"Cost": 20
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "LMBAP",
+			"Description": "Legends Adult PREMIUM",
+			"Price": 55.47,
+			"Cost": 43
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "LMCAPC",
+			"Description": "Legends Child PREMIUM (3 to 16)",
+			"Price": 29.67,
+			"Cost": 15
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "LMBA",
+			"Description": "Legends Adult Regular",
+			"Price": 47.95,
+			"Cost": 36
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "LMBC",
+			"Description": "Legends Child Regular (3-16)",
+			"Price": 22.05,
+			"Cost": 10
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "LGCA",
+			"Description": "Le Grand Crique - Adrenaline - Adult - (13 and up)",
+			"Price": 51.01,
+			"Cost": 25
+		},
+		{
+			"Location": "Myrtle",
+			"PLU": "LGCC",
+			"Description": "Le Grand Crique - Adrenaline - Child - (12 and under)",
+			"Price": 18.76,
+			"Cost": 10
 		}
 	]
 }
