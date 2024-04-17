@@ -12,6 +12,7 @@
 		Location: string;
 		Description: string;
 		PLU: string;
+		Availability: string;
 		Price: number;
 		Cost: number;
 		searchTerms: string;
@@ -19,7 +20,7 @@
 
 	const searchProducts: Gift[] = data.gifts.map((gift: Gift) => ({
 		...gift,
-		searchTerms: `${gift.Location} ${gift.Description} ${gift.PLU} ${gift.Price} ${gift.Cost}`
+		searchTerms: `${gift.Location} ${gift.Description} ${gift.PLU} ${gift.Availability} ${gift.Price} ${gift.Cost}`
 	}));
 
 	const searchStore = createSearchStore(searchProducts);
@@ -72,17 +73,18 @@
 						<div class="p-2 dark:text-white text-black">
 							<button class="btn btn-primary" onclick="my_modal_3.showModal() "> Submit</button>
 							<dialog id="my_modal_3" class="modal">
-								<div class="modal-box  min-w-[900px]">
+								<div class="modal-box min-w-[900px]">
 									<div>
 										<div class="product">
-											<div class="relative overflow-x-auto ">
+											<div class="relative overflow-x-auto">
 												<table class="table table-lg">
 													<!-- head -->
-													<thead class="border-b ">
+													<thead class="border-b">
 														<tr class="text-lg">
 															<th>Location</th>
 															<th>PLU</th>
 															<th>Description</th>
+															<th>Availability</th>
 															<th>$Price</th>
 															<th>$Cost</th>
 														</tr>
@@ -92,10 +94,11 @@
 															<!-- row 1 -->
 															<tr>
 																<td>{gift.Location}</td>
-																<td class="max-w-1.5 ">{gift.PLU}</td>
-																<td class="max-w-1.5 ">{gift.Description}</td>
-																<td class="max-w-1.5 ">{gift.Price}</td>
-																<td class="max-w-1.5 ">{gift.Cost}</td>
+																<td class="max-w-1.5">{gift.PLU}</td>
+																<td class="max-w-1.5">{gift.Description}</td>
+																<td class="max-w-1.5">{gift.Availability}</td>
+																<td class="max-w-1.5">{gift.Price}</td>
+																<td class="max-w-1.5">{gift.Cost}</td>
 															</tr>
 														</tbody>
 													{/each}
