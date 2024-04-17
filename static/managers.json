@@ -1,0 +1,215 @@
+{
+	"Managers": [
+		{
+			"Location": "Las Vegas",
+			"Name": "Courtney Knezovich",
+			"Approval": "YES",
+			"Wave": "YES",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Rick Snell",
+			"Approval": "YES",
+			"Wave": "YES",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Danny Vega",
+			"Approval": "NO",
+			"Wave": "YES",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Showcase",
+			"Name": "Greg Peoples",
+			"Approval": "YES",
+			"Wave": "YES",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Donovan Peterson",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Josh Ibarra",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Todd Siegel",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Kelly Dassler",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Arnold Tarroso",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Hillary Ruby",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Joel Avery",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+
+		{
+			"Location": "Las Vegas",
+			"Name": "Pennie Ruff",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Kristen Kelly",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Ma(lou)rdes Josue",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Anghel Voinel",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Shannon Healy",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Chris Buchanon",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Jeffrey Wallitsch",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Brandon Cudjoe",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Lawrence Carson",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Edrica Mclaurin",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Alex Navarro",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Alicia Quiroga",
+			"Approval": "YES",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Eileen Kuhn",
+			"Approval": "NO",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Mollie Kilgore",
+			"Approval": "NO",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "James Rodriguez",
+			"Approval": "NO",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Alexis Lockett",
+			"Approval": "NO",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Jonathan Littleton",
+			"Approval": "NO",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Donny Wilson",
+			"Approval": "NO",
+			"Wave": "NO",
+			"Invites": "YES"
+		},
+		{
+			"Location": "Las Vegas",
+			"Name": "Antwoine Hooker",
+			"Approval": "NO",
+			"Wave": "NO",
+			"Invites": "YES"
+		}
+	]
+}
