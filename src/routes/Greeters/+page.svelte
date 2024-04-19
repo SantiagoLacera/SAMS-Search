@@ -8,18 +8,17 @@
 
 	export let data: PageData;
 
-	type Manager = {
+	type Greeters = {
 		Location: string;
 		Name: string;
-		Approval: string;
-		Wave: string;
-		Invites: number;
+		OPC: string;
+		GREETER: string;
 		searchTerms: string;
 	};
 
-	const searchProducts: Manager[] = data.managers.map((managers: Manager) => ({
-		...managers,
-		searchTerms: `${managers.Location} ${managers.Name} ${managers.Approval} ${managers.Wave} ${managers.Invites}`
+	const searchProducts: Greeters[] = data.greeters.map((greeters: Greeters) => ({
+		...greeters,
+		searchTerms: `${greeters.Location} ${greeters.Name} ${greeters.OPC} ${greeters.GREETER}`
 	}));
 
 	const searchStore = createSearchStore(searchProducts);
@@ -42,11 +41,12 @@
 			<div class="hero-overlay bg-opacity-70" />
 			<div class="hero-content text-center">
 				<div class="max-w-md">
-					<h1 class="mb-5 text-5xl font-bold">Managers</h1>
+					<h1 class="mb-5 text-5xl font-bold">Greeters</h1>
 					<p class="mb-5 text-lg">
-						This is the Managers page. Here you can search for managers and view their details. For
-						example, you can search for a manager by typing their name "Todd" or location "Las
-						Vegas". The list is stored in local storage, nothing is online.
+						This is the Greeters/OPC page. Here you can search for any Greeter or OPC and view their
+						details. For example, you can search for a manager by typing their name "Sosina" or
+						location "Las Vegas". The list is stored in local storage, nothing is online. (If the
+						number shows as Undefined, it means the number is not available.)
 					</p>
 					<div class="container">
 						<label class="input input-bordered flex items-center gap-2">
@@ -82,26 +82,18 @@
 														<tr class="text-lg">
 															<th>Location</th>
 															<th>Name</th>
-															<th class=" text-sm"
-																>DEPOSITS UNDER $40.00, TWIST TOURS,
-																<br /> TAXI REIMBURSEMENT AND ANY APPROVAL
-															</th>
-															<th class=" text-sm"
-																>OPEN/CLOSE WAVE
-																<br /> /SINGLE OVERBOOK
-															</th>
-															<th class=" text-sm">ALLOWED TO MAKE CHANGES TO INVITES </th>
+															<th class=" text-sm">OPC#</th>
+															<th class=" text-sm">Greeter#</th>
 														</tr>
 													</thead>
-													{#each $searchStore.filtered as manager}
+													{#each $searchStore.filtered as greeter}
 														<tbody class="dark:bg-primary-content dark:border-accent-content">
 															<!-- row 1 -->
 															<tr>
-																<td>{manager.Location}</td>
-																<td class="max-w-1.5">{manager.Name}</td>
-																<td class="max-w-1.5">{manager.Approval}</td>
-																<td class="max-w-1.5">{manager.Wave}</td>
-																<td class="max-w-1.5">{manager.Invites}</td>
+																<td>{greeter.Location}</td>
+																<td class="max-w-1.5">{greeter.Name}</td>
+																<td class="max-w-1.5">{greeter.OPC}</td>
+																<td class="max-w-1.5">{greeter.GREETER}</td>
 															</tr>
 														</tbody>
 													{/each}

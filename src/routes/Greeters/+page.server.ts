@@ -1,13 +1,13 @@
 import type { PageServerLoad } from './$types';
-import managers from '../../../static/managers.json';
+import greeters from '../../../static/greeters.json';
 
 export const load: PageServerLoad = async () => {
 	const getProducts = async () => {
-		const data = managers;
-		return data.Managers;
+		const data = greeters;
+		return data.Greeters;
 	};
 
 	return {
-		managers: getProducts()
+		greeters: getProducts()
 	};
 };
