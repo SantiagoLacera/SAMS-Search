@@ -1428,25 +1428,25 @@
 			"Location": "Las Vegas",
 			"PLU": "RES50 & RES100",
 			"Description": "BENIHANAS",
-			"Availability": "DARK 04/15-04/16"
+			"Availability": "DARK 04/22-04/23"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "RES50 & RES100",
 			"Description": "EDGE STEAKHOUSE",
-			"Availability": "DARK 04/15-04/16"
+			"Availability": "DARK 04/22-04/23"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "RES50 & RES100",
 			"Description": "RIKKI TIKKI",
-			"Availability": "DARK 04/15-04/16"
+			"Availability": "DARK 04/22-04/23"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "RES50 & RES100",
 			"Description": "SILK ROAD",
-			"Availability": "DARK 04/15-04/18"
+			"Availability": "DARK 04/22-04/25"
 		},
 		{
 			"Location": "Las Vegas",
@@ -1557,19 +1557,19 @@
 			"Location": "Las Vegas",
 			"PLU": "SOM",
 			"Description": "SOUL OF MOTOWN",
-			"Availability": "DARK 04/15-04/16"
+			"Availability": "DARK 04/22-04/23"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "JK",
 			"Description": "JEN KRAMER",
-			"Availability": "DARK 04/15-04/18"
+			"Availability": "DARK 04/22-04/25"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "JKC",
 			"Description": "JEN KRAMER CHILD - 16 & under",
-			"Availability": "DARK 04/15-04/18"
+			"Availability": "DARK 04/22-04/25"
 		},
 		{
 			"Location": "Las Vegas",
@@ -1618,7 +1618,7 @@
 			"Location": "Las Vegas",
 			"PLU": "NEON",
 			"Description": "MAVERICK NEON LIGHTS FLIGHT",
-			"Availability": "DARK 04/19-04/20"
+			"Availability": "DARK 04/26-04/27"
 		},
 		{
 			"Location": "Las Vegas",
@@ -1642,13 +1642,13 @@
 			"Location": "Las Vegas",
 			"PLU": "MJLIVE",
 			"Description": "MJLIVE (5yrs and older)",
-			"Availability": "DARK 04/15,16,20"
+			"Availability": "DARK 04/25,16,27"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "RMPR",
 			"Description": "PURPLE REIGN",
-			"Availability": "DARK 04/15,17,19,21"
+			"Availability": "DARK 04/22,24,26,28"
 		},
 		{
 			"Location": "Las Vegas",
@@ -1660,31 +1660,31 @@
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "VEGAS- THE SHOW",
-			"Availability": "DARK 04/21"
+			"Availability": "DARK 04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "ZOMBIE BURLESQUE",
-			"Availability": "DARK 04/21"
+			"Availability": "DARK 04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "THE MENTALIST",
-			"Availability": "DARK 04/17"
+			"Availability": "DARK 04/24"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "POPOVICH COMEDY PET THEATER",
-			"Availability": "DARK 04/15-04/19"
+			"Availability": "DARK 04/22-04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "NATHAN BURTON MAGIC SHOW",
-			"Availability": "DARK 04/18"
+			"Availability": "DARK 04/25"
 		},
 		{
 			"Location": "Las Vegas",
@@ -1702,79 +1702,79 @@
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "EDDIE GRIFFIN (NO PHONE SHOW)",
-			"Availability": "DARK 04/18-04/21"
+			"Availability": "DARK 04/25,26,28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "LIOZ MASTER OF DELUSION",
-			"Availability": "DARK 04/15,17,19,21"
+			"Availability": "DARK 04/22,24,26,28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "CARPENTERS LEGACY",
-			"Availability": "DARK 04/19-04/21"
+			"Availability": "DARK 04/22-04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "PIANO MAN",
-			"Availability": "DARK 04/16"
+			"Availability": "DARK 04/23"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "VVP",
 			"Description": "THE JETS 80's & 90's MUSIC EXP",
-			"Availability": "DARK 04/15, 04/17-04/21"
+			"Availability": "DARK 04/22,24,26,28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "NPP",
-			"Description": "VELVET BURLESQUE",
-			"Availability": "DARK 04/15-04/21"
+			"Description": "RED VELVET BURLESQUE",
+			"Availability": "DARK 04/22-04/26,28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "NPP",
 			"Description": "DIVA ROYALE DRAG MATE",
-			"Availability": "DARK 04/15-04/21"
+			"Availability": "DARK 04/22-04/26,28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "NPP",
 			"Description": "HUNK-O- MANIA REVIEW",
-			"Availability": "DARK 04/15-04/21"
+			"Availability": "DARK 04/22-04/26,28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "NPP",
 			"Description": "CHASE BROWN'S VEGAS COUNTRY",
-			"Availability": "DARK 04/15-04/18, 04/20-04/21"
+			"Availability": "DARK 04/15-04/25, 04/27-04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "NPP",
 			"Description": "ESCAPE REALITY MAGIC",
-			"Availability": "DARK 04/15-04/21"
+			"Availability": "DARK 04/22-04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "NPP",
 			"Description": "JOI JAZZ ORCHESTRA",
-			"Availability": "DARK 04/15-04/21"
+			"Availability": "DARK 04/22-04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "NPP",
 			"Description": "DOWNTOWN COMEDY LOUNGE",
-			"Availability": "DARK 04/15-04/18, 04/20-04/21"
+			"Availability": "DARK 04/22-04/25, 04/27-04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "NPP",
 			"Description": "  THE DOCKSIDERS",
-			"Availability": "DARK 04/15-04/21"
+			"Availability": "DARK 04/22-04/28"
 		},
 		{
 			"Location": "Las Vegas",
@@ -1792,13 +1792,13 @@
 			"Location": "Las Vegas",
 			"PLU": "AV777VP",
 			"Description": "AUSSIE HEAT",
-			"Availability": "DARK 04/16-04/18, 04/21"
+			"Availability": "DARK 04/23-04/25, 04/28"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "AV777VP",
 			"Description": "DISCO DIVAS",
-			"Availability": "DARK 04/18-04/21"
+			"Availability": "DARK 04/25-04/28"
 		},
 		{
 			"Location": "Las Vegas",
@@ -1810,13 +1810,13 @@
 			"Location": "Las Vegas",
 			"PLU": "AV777VP",
 			"Description": "KING OF DIAMONDS",
-			"Availability": "DARK 04/17-04/19"
+			"Availability": "DARK 04/24-04/26"
 		},
 		{
 			"Location": "Las Vegas",
 			"PLU": "AV777VP",
 			"Description": "WONDERLAND",
-			"Availability": "DARK 04/15-04/21"
+			"Availability": "DARK 04/22-04/28"
 		},
 		{
 			"Location": "Las Vegas",
