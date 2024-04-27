@@ -1941,6 +1941,12 @@
 			"Availability": "YES"
 		},
 		{
+			"Location": "Las Vegas",
+			"PLU": "ZIPN",
+			"Description": "LINQ FLY SEATED ZIPLINE",
+			"Availability": "NO, AVAILABLE STARTING 4/29"
+		},
+		{
 			"Location": "River Ranch",
 			"PLU": "RANCHA",
 			"Description": "Package A",
